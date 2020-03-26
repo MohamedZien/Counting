@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="move">#251474</color>
+    <color name="labny">#0090DF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="create_accont">#FF6969</color>
+
+    <color name="default_glow_color">#885BFC</color>
+
+</resources>
